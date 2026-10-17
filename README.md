@@ -136,11 +136,4 @@ For accurate autonomous path repetition, add closed-loop trajectory tracking
 using drive-encoder distance and a recorded yaw profile. The MPU-6050 cannot
 detect pure sideways displacement when the robot's heading does not change.
 
-## Competition and Disclosure Notice
-
-This public repository intentionally excludes the proprietary SmartDriver
-implementation. Be aware that publishing the main sketch still reveals CAN
-IDs, pin assignments, control mappings, PID behavior, and other robot logic.
-Use a private GitHub repository or publish a sanitized version if competition
-rules require those details to remain confidential.
 
