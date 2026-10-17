@@ -97,7 +97,7 @@ Then install and select the matching **ESP32 + Bluepad32 Arduino** board.
 1. Install the ESP32 and ESP32 + Bluepad32 board packages.
 2. Install `arduino-mcp2515` version 1.3.1.
 3. Authorized team members install the private SmartDriver library locally.
-4. Open `CAN_Motor_Joystick_MPU6050_PID.ino` in Arduino IDE.
+4. Open `ProjectV5_Recording.ino` in Arduino IDE.
 5. Select the correct **ESP32 + Bluepad32 Arduino** board and COM port.
 6. Keep the robot raised or disconnect motor power for the first upload test.
 7. Upload the sketch and open Serial Monitor at `115200` baud.
